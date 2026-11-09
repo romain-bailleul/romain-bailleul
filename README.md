@@ -19,7 +19,6 @@ I am a **Cloud Architect & Customer Engineer (SME)** with **12+ years of experie
   - **Tech Lead Cloud Governance**: Spearheaded security guardrails (`Organization Policies`, Data Residency, network hardening), granular **Least-Privilege IAM** at scale, **Cloud Asset Inventory**, security waiver frameworks, and **FinOps** governance.
   - **Tech Lead Cloud Services**: Architected and scaled enterprise **Multi-Cloud Landing Zones** and self-service provisioning across **8,000+ Google Cloud projects** and **100+ Azure subscriptions** using Terraform, Python, and DevOps automation.
 - 🎓 **Cloud Instructor @ SUPINFO**: Taught **GCP Associate Cloud Engineer**, **AWS Cloud Foundations**, and **Azure Fundamentals** to engineering students.
-- 🤖 **Building with AI Agents**: Creator of [`gcd-skill`](https://github.com/rbailleul73/gcd-skill), an AI Agent Skill tailored for Google Cloud Dedicated (GCD) & S3NS (*Cloud de Confiance*) sovereign workloads.
 
 ---
 
@@ -90,7 +89,7 @@ Whether at work or in my free time, I thrive on **teamwork, high altitude, and c
 
 - 🪂 **Skydiving (Parachutisme)**: Literally spending my weekends *in the clouds*! Jumping out of planes taught me rigorous preparation, risk management, and staying calm under pressure — skills that translate surprisingly well to production cloud incidents.
 - 🏀 **Basketball**: Huge basketball fan & player. All about court vision, fast transitions, and collective execution.
-- ⚡ **Sports & Tech Enthusiast**: Always exploring new technologies, AI agents, and pushing limits both on the court and in the terminal.
+- ⚡ **Sports & Tech Enthusiast**: Always exploring new technologies and pushing limits both on the court and in the terminal.
 
 ---
 
