@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner-pixel.jpg" alt="Romain Bailleul - Cloud Architect & Skydiver Banner" width="100%" style="border-radius: 12px;" />
+</p>
+
 # Hi there, I'm Romain Bailleul 👋
 
 ### ☁️ Cloud Architect & Customer Engineer (SME) @ [S3NS](https://www.s3ns.io/)
